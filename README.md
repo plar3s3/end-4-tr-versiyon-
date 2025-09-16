@@ -1,4 +1,4 @@
-# end-4-tr-versiyon-
+# arch linux hyprland end-4-tr-versiyon-
 end-4 Tr Versiyon,App launcher vb...
 [End-4 ](https://github.com/end-4/dots-hyprland) adresindeki quickshell dosyaları üzerinde programlama bilgim olmadan yapay zeka kullanarak bazı değişiklikler yaptım. Sol sidebardaki translate, anime ve yapay zekayı kaldırıp yerine app launcher ekledim.  Sağ sidebarda güncelleme kontrolcü ve screenshot kısayolu ekledim. Bar sol üstte bulunan cpu ve ram kullanımının yanına amd gpu kullanımı ekledim, barı daha sade hale getirdim. Bazı tema ayarları üzerinde de değişiklikler yaptım.Daha doğrusu ben sordum amazon yapay zekası yaptı. Çalışmalarımız devam edecek. Ufak sorunlarımız var. Halledilir.
 <img width="2561" height="1441" alt="screenshot-20250916-210629" src="https://github.com/user-attachments/assets/79ba2f32-2aff-482b-a9ea-3691a9b24fae" />
